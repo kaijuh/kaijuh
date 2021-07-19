@@ -1,4 +1,7 @@
 body[data-theme="dark"] {
+  background-image: url('/assets/img/kaijuh-avatar.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
   color: $dark-text-base-color;
   background-color: $dark-black;
 
