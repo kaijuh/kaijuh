@@ -30,7 +30,8 @@ I’m always up for learning something new, whether it’s diving deeper into ba
 
 ## Get in Contact
 
-My site: [https://johan.me](https://johan.me) 
+My site: [https://johan.me](https://johan.me)
+
 Email: [hi@johan.me](mailto:hi@johan.me)
 
 ---
