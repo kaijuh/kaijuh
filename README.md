@@ -62,6 +62,8 @@ After struggling to find comprehensive resources on Vim, I set out to create a s
 
 Designed with usability and a mobile first approach in mind, the site equips users with practical examples and actionable insights, eliminating the need to consult multiple sources. The resource has attracted thousands of new and returning users, proving itself valuable for the growing Vim community.
 
+![Vim Project](https://johan.me/_next/image?url=%2Fimg%2Fjohan-vim-hero-mock-up.png&w=2048&q=75)
+
 Project Link: [https://www.vim.page/](https://www.vim.page/)
 
 ### Vegas Hockey
