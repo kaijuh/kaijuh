@@ -50,6 +50,8 @@ In its initial release, FreelancePro offers core features designed for simplicit
 
 My goal is to continuously improve FreelancePro to empower freelancers with a dedicated, versatile service, ultimately enabling smoother client interactions and financial management tailored to their specific needs.
 
+![FreelancePro Project](https://johan.me/_next/image?url=%2Fimg%2Fjohan-freelancepro-dashboard-mobile-mock-up.png&w=2048&q=75)
+
 Project Link: [https://www.freelancepro.app/](https://www.freelancepro.app/)
 
 ### Vim.page
@@ -75,5 +77,7 @@ Vegas Hockey is a social networking application made for the pupose of increasin
 Created a user-friendly mobile-first app designed to connect hockey enthusiasts and make finding games more accessible. Unlike existing solutions with closed ecosystems requiring invite codes, this app prioritizes discoverability with SEO-friendly architecture. The aim was to build an open platform for players of all levels to find games without barriers, enhancing community involvement.
 
 Key features include editing check-ins with personal notes and integrated chat functionality, allowing players to coordinate and share game details seamlessly. This app fills the gap in the sports app market, where connecting for niche sports like hockey often lacks accessible, well-designed platforms.
+
+![Vegas Hockey Project](https://johan.me/_next/image?url=%2Fimg%2Fjohan-vegas-hockey-hero-mock-up.png&w=2048&q=75)
 
 Project Link: [https://www.vegashockey.app/](https://www.vegashockey.app/)
